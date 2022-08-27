@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThatCarGuyCodes
-- 👀 I’m interested in Cars, Minecraft, & coding
+- 👀 I’m interested in Cars, Minecraft, & Coding
 - 🌱 I’m currently learning Python, HTML5, React, & PHP
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: ThatCarGuy#8318 on Discord
