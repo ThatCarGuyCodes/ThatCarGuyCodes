@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ThatCarGuyCodes
-- 👀 I’m interested in Cars, Minecraft, & Coding
-- 🌱 I’m currently learning Python, HTML5, React, & PHP
+- 👋 Hi, I’m ThatCarGuy
+- 👀 I’m interested in Cars & Coding
+- 🌱 I’m currently learning Python and HTML + CSS
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: ThatCarGuy#8318 on Discord
 
 <!---
 ThatCarGuyCodes/ThatCarGuyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
